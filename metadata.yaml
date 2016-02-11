@@ -1,0 +1,39 @@
+_repo: Farnham-s-Travels-in-the-Great-Western-Prairies-etc-May-21-October-16-1839-part-1_48046
+contributor:
+  creator:
+    editor:
+      agent_name: Thwaites, Reuben Gold
+      alias: Thwaites, R. G. (Reuben Gold)
+      birthdate: 1853
+      deathdate: 1913
+      gutenberg_agent_id: '33780'
+      url: http://www.gutenberg.org/2009/agents/33780
+creator:
+  author:
+    agent_name: Farnham, Thomas Jefferson
+    alias: Farnham, T. J. (Thomas Jefferson)
+    birthdate: 1804
+    deathdate: 1848
+    gutenberg_agent_id: '39244'
+    url: http://www.gutenberg.org/2009/agents/39244
+description: ''
+gutenberg_issued: '2015-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 28
+subjects:
+- !lcsh 'Oregon -- Description and travel'
+- !lcsh 'Rocky Mountains -- Description and travel'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcc 'F590.3'
+- !lcsh 'Overland journeys to the Pacific'
+- !lcsh 'Indians of North America -- West (U.S.)'
+- !lcsh 'Prairies'
+title: Farnham's Travels in the Great Western Prairies, etc., May 21-October 16, 1839,
+  part 1
+url: http://www.gutenberg.org/ebooks/48046
